@@ -2,7 +2,7 @@
 //  MoviesMasterVC.swift
 //  Classwork6
 //
-//  Created by Jenaan Alshayji on 7/2/20.
+//  Created by Rawaan Alshayji on 7/2/20.
 //  Copyright © 2020 Hasan Alsaffar. All rights reserved.
 //
 
